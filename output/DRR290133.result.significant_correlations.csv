@@ -1,0 +1,17 @@
+"Row","Column","Correlation"
+"tRNA","Completeness",0.927500149926672
+"Total_Coding_Sequences","Genome_Size",0.99361656146362
+"n_genes_called","Genome_Size",0.99368984946728
+"n_genes_mapped","Genome_Size",0.991499298741967
+"Genome_Size","Total_Coding_Sequences",0.99361656146362
+"n_genes_called","Total_Coding_Sequences",0.999799151358641
+"n_genes_mapped","Total_Coding_Sequences",0.995811590566678
+"Genome_Size","n_genes_called",0.99368984946728
+"Total_Coding_Sequences","n_genes_called",0.999799151358641
+"n_genes_mapped","n_genes_called",0.996624028419221
+"Genome_Size","n_genes_mapped",0.991499298741967
+"Total_Coding_Sequences","n_genes_mapped",0.995811590566678
+"n_genes_called","n_genes_mapped",0.996624028419221
+"reference_representation_score","mean_hit_identity",0.93224080247707
+"mean_hit_identity","reference_representation_score",0.93224080247707
+"Completeness","tRNA",0.927500149926672

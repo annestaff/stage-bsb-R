@@ -1,0 +1,17 @@
+"Row","Column","Correlation"
+"Total_Coding_Sequences","Genome_Size",0.991821860185605
+"n_genes_called","Genome_Size",0.990959434474923
+"n_genes_mapped","Genome_Size",0.990611327475785
+"Genome_Size","Total_Coding_Sequences",0.991821860185605
+"n_genes_called","Total_Coding_Sequences",0.999873316658589
+"n_genes_mapped","Total_Coding_Sequences",0.999460151428718
+"Genome_Size","n_genes_called",0.990959434474923
+"Total_Coding_Sequences","n_genes_called",0.999873316658589
+"n_genes_mapped","n_genes_called",0.999622112076482
+"Genome_Size","n_genes_mapped",0.990611327475785
+"Total_Coding_Sequences","n_genes_mapped",0.999460151428718
+"n_genes_called","n_genes_mapped",0.999622112076482
+"n_effective_surplus_clades","contamination_portion",0.959315263889986
+"contamination_portion","n_effective_surplus_clades",0.959315263889986
+"X23S","X16S",0.997005687641548
+"X16S","X23S",0.997005687641548
