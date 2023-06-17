@@ -28,3 +28,6 @@ for (csv_file in csv_files) {
 }
 
 colours <- c("#64B5F6", "#EF5350", "#81C784", "#FFA000", "#CE93D8", "#FFF59D")
+
+human_gut <- rbind(SAMC515478.result, SAMC515479.result, SAMC515480.result)
+sheep_gut <- rbind(SRR10963010.result, SRR14289618.result)
